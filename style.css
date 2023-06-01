@@ -1,0 +1,29 @@
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    font-size:20px;
+}
+
+.nav-item{
+    text-align: center;
+    margin-top:0px;
+    padding-top:25px;
+    text-decoration: none;
+    border: 1px solid black;
+    width:25%;
+    height:45px;
+}
+
+a{
+    text-decoration: 0;
+    color:white;
+}
+
+.authors{
+    margin:10px 50px;
+    width:80px;
+    height:80px;
+    border:1px solid black;
+    border-radius: 100%; 
+}
